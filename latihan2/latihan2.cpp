@@ -37,6 +37,7 @@ int main()
 			cout << "Masukan Lebar = ";
 			cin >> lebar;
 			cout << "\n Luas Persegi panjang = " << persegipanjang(panjang, lebar);
+			break;
 		case 2:
 			cout << "Masukan jari-jari = ";
 			cin >> jejari;
